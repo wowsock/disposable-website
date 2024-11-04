@@ -1,0 +1,120 @@
+﻿1
+00:00:00,500 --> 00:00:06,041
+Applications of machine learning and AI have proliferated at astounding speeds 
+
+2
+00:00:06,041 --> 00:00:14,041
+due to the maturing of a variety of use cases, as well as ever-increasing amount
+of data and network connectivity.
+
+3
+00:00:14,208 --> 00:00:21,416
+AI so far for the most part has used a centralized model where large amounts of 
+data are aggregated and processed,
+
+4
+00:00:21,750 --> 00:00:26,500
+and as a result has given rise to various business models 
+
+5
+00:00:26,750 --> 00:00:35,041
+where “data monopolies” are created with strengthening network effects, a 
+phenomenon often seen in the consumer internet space. 
+
+6
+00:00:35,416 --> 00:00:44,250
+Applications are also having to upgrade their data infrastructure and datacenters for 
+rapidly growing amounts of structured and unstructured data.   
+
+7
+00:00:45,625 --> 00:00:51,916
+However, the trend of evolving data and AI-enabled capabilities have come to crossroads
+
+8
+00:00:52,291 --> 00:01:03,541
+with increasing issues regarding user data privacy, enterprise data privacy, as well as 
+tightening data regulations across various jurisdictions across the world.
+
+9
+00:01:04,958 --> 00:01:14,125
+As a result, an increasing number of enterprises and individuals are 
+wary to use and engage with applications and interaction touchpoints 
+
+10
+00:01:14,208 --> 00:01:22,750
+where data privacy is unclear or in doubt,  creating new bottlenecks for various 
+data-intensive  AI use cases.
+
+11
+00:01:23,875 --> 00:01:32,833
+What’s fascinating however, is that these also come at the same time as steadily 
+rising number of IoT and smart devices, 
+
+12
+00:01:33,083 --> 00:01:38,000
+as well as devices having increasingly powerful computational capacity, 
+
+13
+00:01:38,125 --> 00:01:50,041
+as well as a growing of trend of applications looking to “decentralize” computation, increase 
+performance, and improve data sovereignty by leveraging edge computing technology. 
+
+14
+00:01:51,458 --> 00:01:59,375
+All of these factors are fueling a rise in a new machine learning paradigm – what 
+we refer to as Federated Learning. 
+
+15
+00:02:00,166 --> 00:02:11,833
+Federated Learning is a newer approach to AI where collaborative AI from data of various
+users and participants can occur without having to sacrifice data privacy
+
+16
+00:02:12,208 --> 00:02:16,333
+at the same time of potentially better safeguarding data security. 
+
+17
+00:02:17,416 --> 00:02:24,625
+Federated Learning decentralizes the process by training models across local computing nodes or devices
+
+18
+00:02:24,916 --> 00:02:30,625
+instead of aggregating data and training centrally, which is the prevalent method currently. 
+
+19
+00:02:31,291 --> 00:02:42,750
+This also reduces the computational burden of the original single-party machine learning 
+approach by leveraging computation resources of localized devices and edge computing.
+
+20
+00:02:43,666 --> 00:02:56,916
+Actual implementation of federated learning solutions often touches upon a number of technologies 
+at the intersection machine learning, deep learning, blockchain, IoT and edge computing.
+
+21
+00:02:58,125 --> 00:03:12,125
+Federated Learning is already being used and tested, sometimes at large scale across various 
+industries including finance, healthcare, smart vehicles, consumer applications, and manufacturing. 
+
+22
+00:03:12,791 --> 00:03:18,791
+It is however still in its relative infancy in terms of technology and adoption maturity. 
+
+23
+00:03:19,416 --> 00:03:32,500
+The implementation of the technology, best-practices, nuances, and know-hows are relatively 
+obscure for various enterprises and organizations and often are not well documented. 
+
+24
+00:03:33,583 --> 00:03:45,208
+Federated Learning Consortium, or FLC, is a global non-profit organization whose goals are to 
+advance the understanding and real world use-cases of federated learning
+
+25
+00:03:45,500 --> 00:03:52,625
+as well as related privacy-preserving technologies such as multi-party computation, in a collaborative manner
+
+26
+00:03:52,916 --> 00:04:04,875
+in which research, technology solutions, system integration know-how, and practical 
+case studies are synergized, as well as through discussion and project collaboration. 
